@@ -2,24 +2,24 @@
 
 ## C++ Standard Template Library
 
-Learnt about various data structures in the C++ Standard Template Library and the methods and functions associated with them.  
+In ***Week 1***,  learnt about various data structures in the C++ Standard Template Library and the methods and functions associated with them.  
 
 - Vectors and Strings
 - Stack, Deque, Queue and Priority Queue
 - Pair, map, set, multimaps
 - Operators (bitwise etc.) in C++
 
-As practice for this module, I solved the **Introductory Problems** on [cses](https://cses.fi/problemset/).
+As practice for this module, I solved the **Introductory Problems** on [CSES](https://cses.fi/problemset/).
 
 ## Sorting and Searching
 
-Learnt about various techniques for sorting a data structures and searching for values inside them. Learnt applications of binary search coupled with sorting to solve problems tpyically involving large data sets in optimal time complexity.
+During ***Week 2***,learnt about various techniques for sorting a data structures and searching for values inside them. Learnt applications of binary search coupled with sorting to solve problems tpyically involving large data sets in optimal time complexity.
 
-As practice for this module, I solved problems from **Sorting and Searching** section on [cses](https://cses.fi/problemset/) and Codeforces problems.
+As practice for this module, I solved problems from **Sorting and Searching** section on [CSES](https://cses.fi/problemset/) and Codeforces problems.
 
 ## Graph Representations and Algorithms
 
-Challenging and fun module. Learnt about  
+Challenging and fun module for ***Week 3***.  Learnt about  
 
 - **Graph Terminology** - Nodes, Edges, Weights, Trees, Simple Graphs, Acyclic (Simple) and Cyclic paths, properties of Trees, connected graphs, spanning trees, complete and bipartite graphs
 - **Graph Representation** - Adjacency lists and adjacency matrix
@@ -27,20 +27,20 @@ Challenging and fun module. Learnt about
 - **Shortest Path Algorithms** - Dijkstra's Algorithm, Bellman-Ford Algorithm, Floyd-Warshall Algorithm
 - **Directed Acyclic Graphs** - Their _Topological Sort_ and algorithms to get them, applications
 
-The problems for this module were quite intriguing. I solved problems from cses and Codeforces.
+The problems for this module were quite intriguing. I solved problems from [CSES and Codeforces](https://github.com/harpoonix/Competitive-Coding/blob/main/Graphs/README.md).
 
 ## Divide and Conquer Paradigm
 
-Learnt about various methods for solving recurrences using the divide - conquer paradigm. For practice, I solved these problems on codeforces.
+During ***Week 4***, delved into various methods for solving recurrences using the divide - conquer paradigm. For practice, I solved these problems on codeforces.
 
 ## Dynamic Programming
 
-Learnt about programming techniques **Memoisation** and **Tabulation** to solve recurrence problems that would take too many redundant function calls using normal recursion. Again, like the previous module, it was light on theory and quite application-intensive.  
+In ***Week 5***, learnt about programming techniques **Memoisation** and **Tabulation** to solve recurrence problems that would take too many redundant function calls using normal recursion. Again, like the previous module, it was light on theory and quite application-intensive.  
 
-For practice, I solved problems from CSES for this module.
+For practice, I solved problems from [CSES](https://github.com/harpoonix/Competitive-Coding/blob/main/Dynamic%20Programming/README.md) for this module.
 
 ## Greedy Algorithms
 
-Learnt about various greedy algorithms to tackle some problems.  
+Finally for ***Week 6***, explored various greedy algorithms to tackle some problems.  
 
-Practised on Codeforces.
+Practised on [CodeForces](https://github.com/harpoonix/Competitive-Coding/blob/main/Greedy%20Algorithms/README.md).
