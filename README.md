@@ -44,3 +44,10 @@ For practice, I solved problems from [CSES](https://github.com/harpoonix/Competi
 Finally for ***Week 6***, explored various greedy algorithms to tackle some problems.  
 
 Practised on [CodeForces](https://github.com/harpoonix/Competitive-Coding/blob/main/Greedy%20Algorithms/README.md).
+
+------------------------------------------------------------------------------------------------------------------
+
+## Learning Material
+
+The **Learning Resources** for this project can be found in [this](https://github.com/harpoonix/SoC-22-Competitive-Coding) repository, forked from my mentor's ([Virendra Kabra](https://github.com/virendrakabra14)) [repository](https://github.com/virendrakabra14/SoC-22-Competitive-Coding).
+
