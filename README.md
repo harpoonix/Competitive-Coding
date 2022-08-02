@@ -37,13 +37,13 @@ During ***Week 4***, delved into various methods for solving recurrences using t
 
 In ***Week 5***, learnt about programming techniques **Memoisation** and **Tabulation** to solve recurrence problems that would take too many redundant function calls using normal recursion. Again, like the previous module, it was light on theory and quite application-intensive.  
 
-For practice, I solved problems from [CSES](Dynamic Programming/README.md) for this module.
+For practice, I solved problems from [CSES]("Dynamic Programming/README.md") for this module.
 
 ## Greedy Algorithms
 
 Finally for ***Week 6***, explored various greedy algorithms to tackle some problems.  
 
-Practised on [CodeForces](Greedy Algorithms/README.md).
+Practised on [CodeForces]("Greedy Algorithms/README.md").
 
 ------------------------------------------------------------------------------------------------------------------
 
