@@ -27,7 +27,7 @@ Challenging and fun module for ***Week 3***.  Learnt about
 - **Shortest Path Algorithms** - Dijkstra's Algorithm, Bellman-Ford Algorithm, Floyd-Warshall Algorithm
 - **Directed Acyclic Graphs** - Their _Topological Sort_ and algorithms to get them, applications
 
-The problems for this module were quite intriguing. I solved problems from [CSES and Codeforces](https://github.com/harpoonix/Competitive-Coding/blob/main/Graphs/README.md).
+The problems for this module were quite intriguing. I solved problems from [CSES and Codeforces](./Graphs/README.md).
 
 ## Divide and Conquer Paradigm
 
@@ -37,17 +37,21 @@ During ***Week 4***, delved into various methods for solving recurrences using t
 
 In ***Week 5***, learnt about programming techniques **Memoisation** and **Tabulation** to solve recurrence problems that would take too many redundant function calls using normal recursion. Again, like the previous module, it was light on theory and quite application-intensive.  
 
-For practice, I solved problems from [CSES](https://github.com/harpoonix/Competitive-Coding/blob/main/Dynamic%20Programming/README.md) for this module.
+For practice, I solved problems from [CSES](Dynamic Programming/README.md) for this module.
 
 ## Greedy Algorithms
 
 Finally for ***Week 6***, explored various greedy algorithms to tackle some problems.  
 
-Practised on [CodeForces](https://github.com/harpoonix/Competitive-Coding/blob/main/Greedy%20Algorithms/README.md).
+Practised on [CodeForces](Greedy Algorithms/README.md).
 
 ------------------------------------------------------------------------------------------------------------------
 
 ## Learning Material
 
 The **Learning Resources** for this project can be found in [this](https://github.com/harpoonix/SoC-22-Competitive-Coding) repository, forked from my mentor's ([Virendra Kabra](https://github.com/virendrakabra14)) [repository](https://github.com/virendrakabra14/SoC-22-Competitive-Coding).
+
+## Presentation
+
+[Here](Seasons_of_Code_Presentation.pdf) is a presentation on the project, giving a succinct overview.
 
